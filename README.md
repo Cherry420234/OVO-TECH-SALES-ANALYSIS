@@ -9,7 +9,8 @@ Management requires a centralized reporting dashboard that answers key business 
 3.  Who are the top-performing sales representatives?
 4.  How do sales fluctuate over time?
 5.  What is the company's overall profitability?
-This dashboard provides answers to these questions in a simple, interactive format: <img width="1134" height="603" alt="Screenshot 2026-07-08 063246" src="https://github.com/user-attachments/assets/6019c099-14cb-4fb9-b88e-e0273c8e1d58" />
+This dashboard provides answers to these questions in a simple, interactive format:
+<img width="1134" height="603" alt="Screenshot 2026-07-08 063246" src="https://github.com/user-attachments/assets/6019c099-14cb-4fb9-b88e-e0273c8e1d58" />
 # DATASET INFORMATION
 The dataset contains 2,098 sales transactions with the following fields:
 Column
@@ -36,9 +37,9 @@ Dashboard Design
 Business Analytics
 # KEY METRICS
 Metric         |           Value 
- Total Revenue |   ₦4.66 Billion 
- Total Profit  | ₦465.67 Million 
- Profit Margin |             10% 
+ Total Revenue |   ₦4.66 Billion, 
+ Total Profit  | ₦465.67 Million, 
+ Profit Margin |             10%, 
  Transactions  |           2,098 
 # KEY INSIGHTS
 1.  Electronics generated the highest revenue and profit, making it the strongest product category
